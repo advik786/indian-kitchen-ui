@@ -1,6 +1,6 @@
-import React from 'react';
+import React from "react";
 
-function Filter({ onFilterChange }) {
+function Filter() {
   return (
     <div className="flex flex-col w-full md:w-1/6 p-4 mt-2 md:ml-12">
       <h2 className="text-lg font-semibold mb-4">Filter By</h2>
